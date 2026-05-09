@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -31,29 +31,29 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Soy un jugador de mineccraft regular",
+        "¡Subscribete a Rojo606_YT!",
+        "¡Me gusta jugar Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 100,
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
